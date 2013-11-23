@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "http://github.com/bryhal/awesomepackage1"
+        }
+    ],
+    "require": {
+        "bryhal/awesomepackage1": "master"
+    }
+}
